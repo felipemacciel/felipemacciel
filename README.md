@@ -1,13 +1,18 @@
-## Olá! Eu sou o Felipe Maciel 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=4000&pause=1000&color=purple&center=true&vCenter=true&random=false&width=1500&lines=Bem+vindo!+:%29;+Olá%2C+eu+sou+Felipe+Maciel;)](https://git.io/typing-svg)
+
+<div align="center">
+
+## Minhas redes sociais
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felipemacciel)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.maciel2.fm@gmail.com)
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5585992795153)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemacciel/)
-
-
-
-<!-- ![vue-dark](https://github-readme-stats.vercel.app/api?username=felipemacciel&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark) -->
 
 ## Tecnologias que uso no meu dia
 
@@ -23,3 +28,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipemacciel&theme=vue-dark&hide_border=true&border_radius=3.6&locale=pt_BR&card_width=450&card_height=215)](https://git.io/streak-stats)
 ![felipemacciel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemacciel&theme=vue-dark&locale=pt-br&show_icons=true&card_width=200&card_height=215&hide_border=true&layout=donut)
+<br>
+<br>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
