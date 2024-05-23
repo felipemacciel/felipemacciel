@@ -19,3 +19,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=felipemacciel&theme=vue-dark&hide_border=true&border_radius=3.6&locale=pt_BR&card_width=500&card_height=215)](https://git.io/streak-stats)
+![felipemacciel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemacciel&theme=vue-dark&locale=pt-br&show_icons=true&hide_border=true&layout=donut)
